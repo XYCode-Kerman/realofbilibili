@@ -1,5 +1,7 @@
 # RealOFBilibili
 
+English [中文版](./README.md)
+
 ## What's this?
 
 The RealOFBilibili is a repo on the github, we think the comments on the bilibili is not real because ChenRui.
